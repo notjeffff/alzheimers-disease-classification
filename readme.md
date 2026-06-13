@@ -16,18 +16,6 @@ https://ieeexplore.ieee.org/document/11413794
 
 ---
 
-## Authors
-
-(List exactly as shown in the paper)
-
-Author 1  
-Author 2  
-Jeff Herbert  
-Author 4  
-Author 5  
-
----
-
 ## Overview
 
 The research proposes a deep learning based system for detecting Alzheimer's disease using MRI brain scans.
